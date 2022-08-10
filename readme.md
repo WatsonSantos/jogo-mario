@@ -1,12 +1,11 @@
 
 
 <div>
-<h1>Jogo de Mários</h1>
+<h1>Jogo de Mário Jump</h1>
 </div>
 
 
 <p>
- <a href="#api">• Exemplo API de Pizzas</a> 
  <br>
  <!-- <a href="#visao">• Visão geral</a> <br> -->
  <a href="#leng">• Skills utilizadas</a>
