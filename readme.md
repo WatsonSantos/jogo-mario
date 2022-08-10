@@ -26,7 +26,7 @@ Esta aplicação é de um <strong>Jogo de Mário</strong>, aonde ele está coren
 </h1>
 
 <p align = "center">
-  <img src ="jogo-mario.png" alt = "mockup"/>
+  <img src ="jogo_mario.png" alt = "mockup"/>
 </p>
 
 <br>
