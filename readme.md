@@ -1,7 +1,7 @@
 
 
 <div>
-<h1>Jogo de Mário Jump</h1>
+<h1>Jogo Mário Jump</h1>
 </div>
 
 
@@ -26,7 +26,7 @@ Esta aplicação é de um <strong>Jogo de Mário</strong>, aonde ele está coren
 </h1>
 
 <p align = "center">
-  <img src ="img/jogo-mario.png" alt = "mockup"/>
+  <img src ="jogo-mario.png" alt = "mockup"/>
 </p>
 
 <br>
