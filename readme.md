@@ -22,11 +22,11 @@ Esta aplicação é de um <strong>Jogo de Mário</strong>, aonde ele está coren
 
 <h1 align="center">
 <!-- <h1> -->
-<a href="" target="_blank">Testar</a> 
+<a href="https://mario-jump-game.netlify.app/" target="_blank">Testar</a> 
 </h1>
 
 <p align = "center">
-  <img src ="images/img_readme.jpg" alt = "mockup"/>
+  <img src ="img/jogo-mario.png" alt = "mockup"/>
 </p>
 
 <br>

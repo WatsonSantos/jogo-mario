@@ -50,8 +50,8 @@ function iniciar(){
             
             //mudando a imagem e o estilo quano o jogador perde
             mario.src="img/game-over.png"
-            mario.style.width="75px"
             mario.style.marginLeft="50px"
+            mario.style.width="75px"
     
             clouds.style.animation = "none"
             clouds.style.left = `${cloudsPosition}px`
@@ -84,8 +84,6 @@ iniciar()
 function reiniciar(){
     btnLink.href="index.html"
     const time = setTimeout(()=>{
-
-
         fim.style.opacity="0"
         mario.style.opacity="1"
         pipe.style.opacity="1"
